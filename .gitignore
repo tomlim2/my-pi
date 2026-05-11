@@ -1,0 +1,17 @@
+# Pi coding agent — runtime / secrets / machine-specific
+
+# Auth tokens
+agent/auth.json
+
+# Session logs (per-working-directory JSONL trees)
+agent/sessions/
+
+# Platform-specific bundled binaries (arm64 Mach-O)
+agent/bin/
+
+# Local overrides
+agent/settings.local.json
+.pi/
+
+# macOS
+.DS_Store

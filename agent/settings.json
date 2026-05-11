@@ -1,0 +1,12 @@
+{
+  "skills": [
+    "/Users/deemooooooooo/Desktop/www/caol-ila/agent/skills"
+  ],
+  "prompts": [
+    "/Users/deemooooooooo/Desktop/www/caol-ila/agent/commands"
+  ],
+  "instructions": [
+    "/Users/deemooooooooo/Desktop/www/caol-ila/SYSTEM.md"
+  ],
+  "lastChangelogVersion": "0.74.0"
+}
