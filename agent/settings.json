@@ -6,7 +6,8 @@
     "/Users/deemooooooooo/Desktop/www/caol-ila/agent/commands"
   ],
   "instructions": [
-    "/Users/deemooooooooo/Desktop/www/caol-ila/SYSTEM.md"
+    "/Users/deemooooooooo/Desktop/www/caol-ila/SYSTEM.md",
+    "/Users/deemooooooooo/.pi/agent/rules/pi-behavior.md"
   ],
   "lastChangelogVersion": "0.74.0"
 }
